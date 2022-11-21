@@ -1,0 +1,23 @@
+{
+  "name": "_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/me-anshu7/_typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/me-anshu7/_typescript/issues"
+  },
+  "homepage": "https://github.com/me-anshu7/_typescript#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
